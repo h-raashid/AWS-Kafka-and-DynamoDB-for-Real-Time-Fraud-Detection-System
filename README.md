@@ -1,1 +1,1 @@
-kafka-flink-dynamodb# AWS-Kafka-and-DynamoDB-for-real-time-fraud-detection
+# AWS-Kafka-and-DynamoDB-for-real-time-fraud-detection
